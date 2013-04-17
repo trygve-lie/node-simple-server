@@ -1,0 +1,40 @@
+{
+  "name": "node-boilerplate-simple",
+  "version": "0.0.1",
+  "author": {
+    "name": "A-Media",
+    "email": "post@apdm.com"
+  },
+  "description": "Simple web app",
+  "main": "",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:trygve-lie/node-boilerplate-simple.git"
+  },
+  "bugs": {
+    "url": "https://github.com/trygve-lie/node-boilerplate-simple/issues"
+  },
+  "keywords": [
+    "fotball",
+    "nifs"
+  ],
+  "scripts": {
+    "start": "node ./bin/server.js"
+  },
+  "engines": {
+    "node": "0.8.x"
+  },
+  "devDependencies": {
+    "mocha": "latest"
+  },
+  "dependencies": {
+    "express": "3.x",
+    "winston": "0.6.x",
+    "convict": "0.1.x"
+  },
+  "bundledDependencies": [
+    "express",
+    "winston",
+    "convict"
+  ]
+}
