@@ -1,5 +1,5 @@
 {
-  "name": "node-boilerplate-simple",
+  "name": "node-simple-server",
   "version": "0.0.1",
   "author": {
     "name": "A-Media",
@@ -9,10 +9,10 @@
   "main": "",
   "repository": {
     "type": "git",
-    "url": "git@github.com:trygve-lie/node-boilerplate-simple.git"
+    "url": "git@github.com:trygve-lie/node-simple-server.git"
   },
   "bugs": {
-    "url": "https://github.com/trygve-lie/node-boilerplate-simple/issues"
+    "url": "https://github.com/trygve-lie/node-simple-server/issues"
   },
   "keywords": [
     "fotball",
