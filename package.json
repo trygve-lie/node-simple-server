@@ -28,9 +28,9 @@
     "mocha": "latest"
   },
   "dependencies": {
-    "express": "3.x",
-    "winston": "0.6.x",
-    "convict": "0.1.x"
+    "express": "^4.16.3",
+    "winston": "~3.1.0",
+    "convict": "~4.4.0"
   },
   "bundledDependencies": [
     "express",
